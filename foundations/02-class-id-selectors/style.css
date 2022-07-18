@@ -1,0 +1,21 @@
+
+
+.odd {
+    background-color: #ed9d98;
+    font-family: Verdana, "DejaVu Sans", sans-serif;
+}
+
+#i2 {
+    color: blue;
+    font-size: 36px;
+}
+
+.c3 {
+    font-size: 24px;
+}
+
+#i4 {
+    background-color: hwb(84 18% 0%);
+    font-weight: bold;
+    font-size: 24px;
+}
